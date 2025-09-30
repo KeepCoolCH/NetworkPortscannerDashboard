@@ -33,7 +33,7 @@ Supports both **macOS** and **Linux**, with a manual OS switch button.
 
 ## 📦 Requirements
 
-- > PHP **7.4+** (CLI functions enabled: `shell_exec`, `fsockopen`)  
+- PHP **7.4+** (CLI functions enabled: `shell_exec`, `fsockopen`)  
 - System commands:
   - macOS: `netstat`, `lsof`  
   - Linux: `ss` (preferred), `netstat`, `lsof`, `dig` (optional for IP)  
